@@ -1,0 +1,62 @@
+Government fixed mobile,30000000,30560000
+Non-government fixed land mobile,30560000,32000000
+Government fixed mobile,32000000,33000000
+Non-government fixed land mobile,33000000,34000000
+Government fixed mobile,34000000,35000000
+Non-government fixed land mobile,35000000,36000000
+Government fixed mobile,36000000,37000000
+Non-government land mobile,37000000,37500000
+Radio astronomy / non-government land mobile,37500000,38000000
+Radio astronomy / government fixed mobile,38000000,38250000
+Government fixed mobile,38250000,39000000
+Non-government land mobile,39000000,40000000
+Government fixed mobile,40000000,42000000
+Non-government fixed land mobile,42000000,43690000
+Non-government land mobile,43690000,46600000
+Government fixed mobile,46600000,47000000
+Non-government land mobile,47000000,49600000
+Government fixed mobile,49600000,50000000
+Amateur,50000000,54000000
+Broadcasting (TV channels 2-4),54000000,72000000
+Non-government fixed mobile,72000000,73000000
+Radio astronomy,73000000,74600000
+Fixed mobile,74600000,74800000
+Aeronautical radionavigation,74800000,75200000
+Fixed mobile,75200000,75400000
+Non-government fixed mobile,75400000,76000000
+Broadcasting (TV channels 5-6),76000000,88000000
+Broadcasting (FM radio),88000000,108000000
+Aeronautical radionavigation,108000000,117975000
+Aeronautical mobile ®,117975000,121937500
+Non-government aeronautical mobile,121937500,123087500
+Aeronautical mobile,123087500,123587500
+Aeronautical mobile ®,123587500,128812500
+Non-government aeronautical mobile ®,128812500,132012500
+Aeronautical mobile ®,132012500,136000000
+Non-government aeronautical mobile ®,136000000,137000000
+Mobile satellite / space research / space operation / meteorological aids,137000000,138000000
+Government fixed mobile,138000000,144000000
+Amateur / amateur satellite,144000000,146000000
+Amateur,146000000,148000000
+Mobile satellite / government fixed mobile,148000000,149900000
+Radionavigation satellite / mobile satellite,149900000,150050000
+Government fixed mobile,150050000,150800000
+Non-government fixed land mobile,150800000,152855000
+Non-government land mobile,152855000,154000000
+Non-government fixed land mobile,154000000,156247500
+Non-government maritime mobile,156247500,157037500
+Government maritime mobile,157037500,157187500
+Non-government maritime mobile / land mobile,157187500,157450000
+Non-government fixed / land mobile,157450000,161575000
+Non-government maritime mobile,161575000,161625000
+Non-government land mobile,161625000,161775000
+Non-government maritime mobile / land mobile,161775000,162012500
+Government fixed mobile,162012500,173200000
+Non-government fixed / land mobile,173200000,173400000
+Government fixed / mobile,173400000,174000000
+Broadcasting (TV channels 7-13),174000000,216000000
+"Government fixed, mobile, radiolocation / non-government fixed, mobile, amateur",216000000,220000000
+"Fixed, land mobile / Government radiolocation",220000000,222000000
+Amateur / government radiolocation,222000000,225000000
+Government fixed / mobile,225000000,235000000
+Government fixed / mobile satellite / mobile,235000000,322000000
